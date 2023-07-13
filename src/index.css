@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color:rgb(18, 18, 70);
 }
 
 code {
@@ -17,7 +18,7 @@ code {
   margin: 30px;
   padding: 10px;
   text-align: center;
-  border: 1px solid black;
+  border: 5px solid rgb(238, 153, 49);
   border-radius: 5px;
   background-color: bisque;
 }
